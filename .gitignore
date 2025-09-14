@@ -61,3 +61,7 @@ cmake_install.cmake
 
 # Local configuration
 config/local.json
+
+# Other files
+launcher-tasks.md
+opengl_wrapper_tasks.md

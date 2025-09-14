@@ -166,3 +166,26 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## ⚠️ Disclaimer
 
 This launcher is not affiliated with Mojang Studios or Microsoft. Minecraft is a trademark of Mojang Studios.
+
+
+## Version scheme
+Early Development:
+- Cryovex-Proto-x.y.z → prototype builds (barebones, experimental).
+- Cryovex-Fragment-x.y.z → pre alpha builds.
+
+Alpha Stage (unstable, feature testing):
+- Cryovex-Shard-x.y.z → small, fragile, but functional builds.
+- Cryovex-Frostbite-x.y.z → rough but powerful test versions.
+
+Beta Stage (feature complete, testing/bugfixes):
+- Cryovex-Glacier-x.y.z → stable core forming, slow but solid.
+- Cryovex-Oblivion-x.y.z → big sweeping experimental updates.
+
+Release Candidates:
+- Cryovex-Crystal-x.y.z-rcN → polished, almost ready for stable release.
+- Cryovex-Prism-x.y.z-rcN → bugfixes before release.
+
+Stable Releases:
+- Cryovex-Core-x.y.z → stable “mainline” release.
+- Cryovex-Aurora-x.y.z → not so stable experimental updates.
+- Cryovex-Singularity-x.y.z → very stable experimental updates.
